@@ -1,1 +1,17 @@
-
+{
+    "Ram Prabhu": [
+        {"account_name": "Ram Prabhu", "s_no": "1", "account_details": "Account 1"},
+        {"account_name": "Ram Prabhu", "s_no": "2", "account_details": "Account 2"},
+        {"account_name": "Ram Prabhu", "s_no": "3", "account_details": "Account 3"}
+    ],
+    "Alex Randy": [
+        {"account_name": "Alex Randy", "s_no": "1", "account_details": "Account 1"},
+        {"account_name": "Alex Randy", "s_no": "2", "account_details": "Account 2"},
+        {"account_name": "Alex Randy", "s_no": "3", "account_details": "Account 3"}
+    ],
+    "Peter Spara": [
+        {"account_name": "Peter Spara", "s_no": "1", "account_details": "Account 1"},
+        {"account_name": "Peter Spara", "s_no": "2", "account_details": "Account 2"},
+        {"account_name": "Peter Spara", "s_no": "3", "account_details": "Account 3"}
+    ]
+}
