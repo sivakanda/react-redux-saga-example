@@ -1,0 +1,17 @@
+{
+    "CVS Pharmacy": [
+        {"account_name": "CVS Pharmacy", "s_no": "1", "account_details": "Medicines"},
+        {"account_name": "CVS Photos", "s_no": "2", "account_details": "Photo service"},
+        {"account_name": "CVS Groceries", "s_no": "3", "account_details": "Sells Groceries"}
+    ],
+    "Tangents LLC": [
+        {"account_name": "Tangents Accounting", "s_no": "1", "account_details": "Acounting Services"},
+        {"account_name": "Tangents Securities", "s_no": "2", "account_details": "Security Services"},
+        {"account_name": "Tangents Investments", "s_no": "3", "account_details": "Investment Portfolio Management"}
+    ],
+    "Walgreens": [
+        {"account_name": "Walgreens Pharmacy", "s_no": "1", "account_details": "Medicines"},
+        {"account_name": "Walgreens Photos", "s_no": "2", "account_details": "Photo service"},
+        {"account_name": "Walgreens Groceries", "s_no": "3", "account_details": "Sells Groceries"}
+    ]
+}
