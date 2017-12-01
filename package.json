@@ -1,0 +1,47 @@
+{
+  "name": "dummys-guide-to-redux-and-thunk-react",
+  "version": "1.0.0",
+  "description": "A Dummy's Guide to Redux and Thunk in React",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --content-base --inline --hot --host 0.0.0.0 --port 8085",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "history": "^4.7.2",
+    "json-loader": "^0.5.7",
+    "postcss-color-rebeccapurple": "^3.0.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.0",
+    "react-select": "^1.0.1",
+    "redux": "^3.5.2",
+    "redux-saga": "^0.11.0",
+    "style-loader": "^0.19.0",
+    "transform-runtime": "0.0.0",
+    "webpack-css-loaders": "^1.0.0"
+  },
+  "devDependencies": {
+    "ag-grid": "^14.2.0",
+    "ag-grid-react": "^14.2.0",
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "react-dom-factories": "^1.0.2",
+    "react-to-html-webpack-plugin": "^2.2.0",
+    "uglifyjs-webpack-plugin": "^1.1.0",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}
