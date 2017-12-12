@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server --content-base --inline --hot --host 0.0.0.0 --port 8085",
     "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "autoprefixer-core": "^6.0.1",
